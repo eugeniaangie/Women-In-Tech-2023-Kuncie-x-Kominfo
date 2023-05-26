@@ -93,7 +93,8 @@ choose open and go to the 'db.sqlite3' in your django project
 
 you can see this then
 
-![image](https://github.com/eugeniaangie/Women-In-Tech-2023-Kuncie-x-Kominfo/assets/62442475/16e65cac-3a0e-442d-91f2-e2ea42fc73c9)
+![image](https://github.com/eugeniaangie/Women-In-Tech-2023-Kuncie-x-Kominfo/assets/62442475/2be45ac1-358b-4bdc-8464-418436a402fa)
+
 
 data is doesn't exist
 

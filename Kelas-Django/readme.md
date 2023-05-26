@@ -143,7 +143,7 @@ or see through DBeaver
 
 ![image](https://github.com/eugeniaangie/Women-In-Tech-2023-Kuncie-x-Kominfo/assets/62442475/f945c6bc-d90c-4f30-a924-f2846a576bc6)
 
-![image](https://github.com/eugeniaangie/Women-In-Tech-2023-Kuncie-x-Kominfo/assets/62442475/6c4f2ab3-f19a-4b92-b317-ba13dc21f128)
+![image](https://github.com/eugeniaangie/Women-In-Tech-2023-Kuncie-x-Kominfo/assets/62442475/57d10641-eca0-4458-b9b2-251ae013814c)
 
 
 

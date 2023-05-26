@@ -9,7 +9,7 @@
 #         email='eugeniaangelas@yopmail.com'
 #     )
 # p2 = Pengguna(
-#         nama='billie elish',
+#         nama='billie eilish',
 #         alamat='nganjuk',
 #         email='billie@yopmail.com'
 #     )

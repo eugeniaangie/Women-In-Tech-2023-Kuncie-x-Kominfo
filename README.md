@@ -7,3 +7,7 @@ Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
 
 Thank you! Happy Learning :))
+
+## Visitors Count
+
+<img align="left" src = "https://profile-counter.glitch.me/Women-In-Tech-2023-Kuncie-x-Kominfo/count.svg" alt ="Loading">
